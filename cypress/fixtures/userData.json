@@ -1,0 +1,15 @@
+{
+  "name": "Thomas",
+  "lastName": "Orange",
+  "email": "torange@gmail.com",
+  "gender": "Male",
+  "number": "1231321",
+  "birthYear": "1930",
+  "birthMonth": "February",
+  "birthDay": "28",
+  "address": "Baker's street 192",
+  "subjects": "Economics",
+  "hobbies": "Music",
+  "city": "Delhi",
+  "state": "NCR"
+}
